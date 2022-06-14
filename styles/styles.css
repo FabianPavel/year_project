@@ -1,8 +1,17 @@
-img{
-    max-height:1000px;
-}
-main{
-    padding-left: 20%;
-    padding-right: 20%;
-    padding-top: 20%;
-}
+  main{
+      margin-left: 30%;
+      margin-right: 30%;
+  }
+  table, th, td {
+    border: 1px solid !important;
+  }
+  .table{
+    overflow-x:auto;
+  }
+  .carousel-photo{
+      min-width: 600px;
+      max-width: 900px;
+
+      min-height: 500px;
+      max-height: 600px;
+  }
