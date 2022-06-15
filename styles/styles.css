@@ -1,9 +1,26 @@
+  body{
+    background-color: #221d28 !important;
+  }
+  *{
+    font-family: Lato;
+    color: aliceblue;
+  }
+  hr{
+      color: black !important;
+  }
+  body{
+    background-color: #221d28;
+  }
   main{
-      margin-left: 30%;
-      margin-right: 30%;
+      padding-left: 20%;
+      padding-right: 20%;
+
   }
   table, th, td {
     border: 1px solid !important;
+  }
+  th,td{
+    padding: 5px;
   }
   .table{
     overflow-x:auto;
