@@ -1,0 +1,30 @@
+  body{
+    background-color: #221d28 !important;
+  }
+  *{
+    font-family: Lato;
+    color: aliceblue;
+  }
+  iframe{
+    margin-left: 0 !important;
+      height: 800px;
+      width: 960px;
+  }
+  .margin{
+    margin-left:15% !important;
+  }
+  hr{
+    color: rgb(255, 255, 255) !important;
+}
+.git{
+    max-width: 50px;
+    max-height: 50px;
+    opacity: 0.5;
+  }
+  .git:hover{
+      opacity: 1;
+  }
+  footer{
+    text-align: center;
+  color: rgba(240, 248, 255, 0.158) !important;
+}

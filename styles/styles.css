@@ -50,8 +50,9 @@
       max-height: 600px;
   }
   iframe{
+    margin-left: 0 !important;
       height: 800px;
-      width: 1000px;
+      width: 960px;
   }
   .git{
     max-width: 50px;
