@@ -5,8 +5,26 @@
     font-family: Lato;
     color: aliceblue;
   }
+  footer{
+      text-align: center;
+    color: rgba(240, 248, 255, 0.158) !important;
+  }
+  h1{
+      color: blueviolet !important;
+      text-align: center;
+  }
+  h2{
+    color: rgb(100, 100, 255) !important;
+
+  }
+  h3{
+    color: cadetblue !important;
+  }
+  .form{
+    color: rgb(100, 100, 255) !important;
+  }
   hr{
-      color: black !important;
+      color: rgb(255, 255, 255) !important;
   }
   body{
     background-color: #221d28;
@@ -14,7 +32,6 @@
   main{
       padding-left: 20%;
       padding-right: 20%;
-
   }
   table, th, td {
     border: 1px solid !important;
@@ -33,6 +50,25 @@
       max-height: 600px;
   }
   iframe{
-      height: 1000px;
+      height: 800px;
       width: 1000px;
+  }
+  .git{
+    max-width: 50px;
+    max-height: 50px;
+    opacity: 0.5;
+  }
+  .git:hover{
+      opacity: 1;
+  }
+  .plat{
+      max-width: 100px;
+      max-height: 50px;
+  }
+  .GJ{
+    max-width: 300px;
+    max-height: 100px;
+  }
+  .away{
+    margin-left: 10%;
   }
