@@ -1,13 +1,13 @@
   body{
     background-color: #221d28 !important;
-    padding: 15%;
+    padding-left: 15%;
   }
   *{
     font-family: Lato;
     color: aliceblue;
   }
   iframe{
-    position: absolute;
+    position: relative;
     margin-left: 0 !important;
       height: 800px;
       width: 960px;
