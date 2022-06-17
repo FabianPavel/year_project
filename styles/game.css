@@ -1,6 +1,5 @@
   body{
     background-color: #221d28 !important;
-    padding-left: 15%;
   }
   *{
     font-family: Lato;
@@ -12,9 +11,9 @@
       height: 800px;
       width: 960px;
   }
-  /*.margin{
-    margin-left:18% !important;
-  }*/
+  .margin{
+     padding-left: 15%; !important;
+  }
   hr{
     color: rgb(255, 255, 255) !important;
 }
